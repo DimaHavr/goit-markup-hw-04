@@ -134,13 +134,8 @@ a {
 .address-link:hover,
 .address-link:focus {
    color: var(--hover-color);
-   fill: var(--hover-color);
 }
-.contact-link:hover .contact-icon,
-.contact-link:focus .contact-icon {
-   fill: var(--hover-color);
-}
-.contact-box {
+ntact-box {
 }
 .contact-list {
    display: flex;
